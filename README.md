@@ -19,7 +19,7 @@ _Even though there is no strict time limit, it should take you 2-6 hours to comp
 2. **Use Ruby**, a style guide can be found [here](https://github.com/bbatsov/ruby-style-guide), use 2 soft-tabs.
 3. Use proper object orientation, abstraction and design patterns.
 3. Your application should run as a CLI (command line interface). Should flow like a text based game. in memory data store is fine. The player should be able to play as many missions as they would like. At the end of each mission you should output a summary of the mission. At the end of all missions output the final summary.
-4. Once completed, email your point of contact at Doximity a link to your respository.
+4. Once completed, email your point of contact a link to your respository.
 
 ## Your Mission
 
